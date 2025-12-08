@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍🎓 An Engineering student majoring in Computer Science.<br>🐧 Open Source Enthusiast.<br>🧑‍💻 Currently learning Web Development.<br>🧑‍💻 I love to observe and learn whatever is necessary and whatever makes me curious.<br>⚽ My hobby is to explore philosophy, theology and  psychology. 
+🧑‍🎓 An Engineering student majoring in Computer Science.<br>🐧 Open Source Enthusiast.<br>🧑‍💻 Networking, Security and Web Development.<br>🧑‍💻 I love to observe and learn whatever is necessary and whatever makes me curious.<br>⚽ My hobby is to explore philosophy, theology and  psychology. 
 
 
 ## 🌐 Socials:
