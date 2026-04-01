@@ -4,6 +4,7 @@
 
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=X&logoColor=white)](https://x.com/DarSumaan) [![Instagram](https://img.shields.io/badge/Instagram-%230077B5.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/dar_sumaan/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dar%20Sumaan-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dar-sumaan/)
 
 # 💻 Tech Stack:
 ### 🧰 Tech Stack
